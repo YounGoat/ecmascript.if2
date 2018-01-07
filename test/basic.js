@@ -6,7 +6,7 @@ const MODULE_REQUIRE = 1
     /* NPM */
     
     /* in-package */
-    , if2 = require("if2")
+    , if2 = require("../")
     ;
 
 describe('if2', () => {
