@@ -9,8 +9,8 @@ __if2 A,B := if A then A else B__
 
 ##	Links
 
-[CHANGE LOG](./CHANGELOG.md)
-[Homepage](https://github.com/YounGoat/ecmascript.if2)
+*	[CHANGE LOG](./CHANGELOG.md)
+*	[Homepage](https://github.com/YounGoat/ecmascript.if2)
 
 ##  Get Started
 
