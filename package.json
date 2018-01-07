@@ -11,7 +11,8 @@
         "url": "git+https://github.com/YounGoat/ecmascript.if2.git"
     },
     "keywords": [
-        "if"
+        "if",
+        "type-satisfy"
     ],
     "author": "youngoat@163.com",
     "license": "ISC",

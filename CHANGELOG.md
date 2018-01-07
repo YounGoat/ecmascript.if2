@@ -9,6 +9,10 @@ Notable changes to this project will be documented in this file. This project ad
 *	__if2.satisfies__ added.
 *	__if2.is__ added.
 *	Some predefined member methods added.
+
+###	Others
+
+*	Integerated with [Travis CI](https://travis-ci.org/YounGoat/ecmascript.if2).
 *	Unit tests added.
 
 ---
